@@ -20,9 +20,12 @@ To run this project, you will need Python installed on your machine. Follow thes
 
    ```bash  
    git clone https://github.com/sepidehparsa/NiniSite-Web-Scraper.git
+
 2.Navigate into the project directory:
 cd NiniSite-Web-Scraper
+
 3.Install the required Python packages with pip:
+
 pip install requests beautifulsoup4 pandas openpyxl
 
 Usage
@@ -32,10 +35,13 @@ To use the script, follow these steps:
 
 2.Run the script using Python:
 python scraping_script.py
+
+
 3.Upon successful execution, two output files will be generated in the same directory:
 
 question_links_grouped_with_urls.xlsx: An Excel file containing the collected question links along with their associated hashtags.
 question_links_grouped_with_urls.csv: A CSV file in a similar format for easy access and analysis with data tools.
+
 
   Contributing
 Contributions to the project are encouraged. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Your input can help improve this project for others.
