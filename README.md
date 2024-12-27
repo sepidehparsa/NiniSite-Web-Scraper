@@ -97,14 +97,3 @@ This project is licensed under the MIT License. For license details, refer to th
 - **NiniSite**: Acknowledging the platform for providing valuable content for individuals seeking guidance on mental health.
 - **BeautifulSoup & Requests**: Thanks to the communities behind these libraries for creating tools that facilitate web scraping and data manipulation effectively.
 ```
-
-### Key Points:
-1. **Hashtag Example**: In the Features section, I included a reference to common psychological hashtags. You might want to customize this further based on the specific hashtags your script targets.
-2. **Customization**: Make sure to replace `[your.email@example.com](mailto:your.email@example.com)` with your actual email.
-3. **Organization**: The overall structure is maintained to ensure clarity and easy navigation for users interested in your project.
-
-### How to Use:
-- Copy and paste the text above into your `README.md` file on your GitHub repository.
-- Review and make any necessary adjustments for your specific context or additional details.
-
-This README should provide comprehensive information and guide users effectively. If you have any more questions or need further assistance, just let me know!
