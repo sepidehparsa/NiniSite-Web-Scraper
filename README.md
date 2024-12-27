@@ -1,9 +1,3 @@
-Certainly! Here’s the complete `README.md` file for your GitHub repository, including specific sections on features or usage that might involve hashtags, organized neatly in Markdown format. 
-
-### Complete README.md with Hashtags
-
-```markdown
-# NiniSite Web Scraper
 
 A Python script designed to scrape questions from the NiniSite website based on various psychological hashtags. This tool can gather relevant questions to analyze trends in mental health discussions.
 
